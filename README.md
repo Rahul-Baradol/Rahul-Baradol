@@ -6,7 +6,7 @@
 </div>
 
 <div style="width: 100%; font-size: 25px; margin-bottom: 10px;">
-   Tech...
+   Tech
 </div>
 
 <table style="width: 100%; ">
