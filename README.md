@@ -234,3 +234,13 @@
 </table> 
 
 [![An image of @rahulbaradol's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulbaradol)](https://holopin.io/@rahulbaradol)  
+
+<div style="width: 100%; height: fit; padding: 10px; display: flex; justify-content: center; gap: 20px;">
+   <img src="assets/Knight.gif" style="width: 100px; height: auto;">
+   <img src="assets/2023-08.gif" style="width: 100px; height: auto;">
+   <img src="assets/2023-100.gif" style="width: 100px; height: auto;">
+   <img src="assets/2023-12.gif" style="width: 100px; height: auto;">
+   <img src="assets/2023-50.gif" style="width: 100px; height: auto;">
+   <img src="assets/2024-01.gif" style="width: 100px; height: auto;">
+   <img src="assets/2024-50.gif" style="width: 100px; height: auto;">
+</div>
