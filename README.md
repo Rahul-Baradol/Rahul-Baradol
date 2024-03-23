@@ -26,7 +26,7 @@ Check out my personal portfolio website at [rahulbaradol.in](https://rahulbarado
 - 2nd year Computer Science Student
 - Passionate about building innovative solutions through various web technologies, and delving into databases, load balancers, and system architecture to create cost-effective, performant solutions that meet requirements
 
-#### Current Interests 🌱
+#### Proficient 🚀 
 - **[React](https://reactjs.org)**, **[Next JS](https://nextjs.org/)**
 - **[Typescript](https://www.typescriptlang.org/)**
 - **[Tailwind CSS](https://tailwindcss.com)**
