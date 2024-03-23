@@ -1,7 +1,7 @@
 <h3>
    Hello there... 👋😊 <br>
    I'm
-   <img src="./assets/rahulbaradol2.png" style="position: relative; width: 150px; left: 0px; top: 4px;">
+   <img src="./assets/rahulbaradol2.png" style="position: relative; width: 150px; left: 0px; top: 8px;">
   <br>
 </h3>
 
