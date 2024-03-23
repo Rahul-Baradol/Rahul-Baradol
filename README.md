@@ -1,7 +1,9 @@
 <h3>
-  Hello there... <br>
-  I'm
-  <span style="color: rgb(91 33 182); user-select: none;">Rahul Baradol</span>
+   Hello there... 👋😊 <br>
+   I'm
+   <span style="color: rgb(91, 33, 182)">
+      Rahul Baradol
+   </span>
   <br>
 </h3>
 
@@ -16,10 +18,9 @@
 - ⚡ Fun fact: ...
 -->
 
-#### Personal Portfolio 🌟
+#### Portfolio 🌟
 
 Check out my personal portfolio website at [rahulbaradol.in](https://rahulbaradol.in) to learn more about my projects, skills, and experience.
-
 
 #### About 🌏
 - 2nd year Computer Science Student
@@ -30,14 +31,13 @@ Check out my personal portfolio website at [rahulbaradol.in](https://rahulbarado
 - **[Typescript](https://www.typescriptlang.org/)**
 - **[Tailwind CSS](https://tailwindcss.com)**
 - **[Express](https://expressjs.com/)**
-- Graph Theory
-- Generic Programming
 
 #### Ask me about 💬
-- Frontend development
-- UI design
+- Backend Systems
 - API Design
 - Algorithms
+- Frontend Development
+- UI Design
 
 #### Currently Exploring 💡
 - Generative AI
