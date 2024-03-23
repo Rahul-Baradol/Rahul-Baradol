@@ -1,10 +1,9 @@
 <h3>
    Hello there...  <br>
    I'm
-   <img src="./assets/rahulbaradol2.png" style="position: relative; width: 150px; left: 1px; top: 5px;">
-   <!-- <span style="color: rgb(91, 33, 182)">
+   <span>
       Rahul Baradol
-   </span> -->
+   </span>
   <br>
 </h3>
 
