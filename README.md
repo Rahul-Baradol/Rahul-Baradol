@@ -1,9 +1,7 @@
 <h3>
    Hello there... 👋😊 <br>
    I'm
-   <span style="color: rgb(91, 33, 182)">
-      Rahul Baradol
-   </span>
+   <img src="./assets/rahulbaradol2.png" style="position: relative; width: 150px; left: 0px; top: 4px;">
   <br>
 </h3>
 
