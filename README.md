@@ -29,7 +29,7 @@ Check out my portfolio website at [rahulbaradol.in](https://rahulbaradol.in) to 
 - UI Design
 
 #### Currently Exploring 💡
-- Generative AI
+- Distributed Systems
 
 #### Get in touch 📫
 - Mail: **rahul.baradol.14@gmail.com**
