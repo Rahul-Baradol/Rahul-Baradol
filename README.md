@@ -28,8 +28,5 @@ Check out my portfolio website at [rahulbaradol.in](https://rahulbaradol.in) to 
 - Frontend Development
 - UI Design
 
-#### Currently Exploring 💡
-- Distributed Systems
-
 #### Get in touch 📫
 - Mail: **rahul.baradol.14@gmail.com**
