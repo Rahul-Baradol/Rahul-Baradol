@@ -13,6 +13,7 @@ Check out my portfolio website at [rahulbaradol.in](https://rahulbaradol.in) to 
 
 #### About 🌏
 - 2nd year Computer Science Student
+- Love to work on Distributed {Systems, Databases}
 - Passionate about building innovative solutions through various web technologies, and delving into databases, load balancers, and system architecture to create cost-effective, performant solutions that meet requirements
 
 #### Proficient 🚀 
