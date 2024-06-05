@@ -20,7 +20,7 @@ Check out my portfolio website at [rahulbaradol.in](https://rahulbaradol.in) to 
 - **[Typescript](https://www.typescriptlang.org/)**
 - **[Tailwind CSS](https://tailwindcss.com)**
 - **[Express](https://expressjs.com/)**
-- **C++**
+- **[C++](https://cplusplus.com/)**
 
 #### Ask me about 💬
 - Backend Systems
