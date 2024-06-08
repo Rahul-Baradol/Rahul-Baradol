@@ -30,8 +30,9 @@ Check out my portfolio website at [rahulbaradol.in](https://rahulbaradol.in) to 
 - Frontend Development
 - UI Design
 
-#### Hobby
-- Leetcode for fun!!
+#### Also, I do LeetCode!&nbsp; Why?
+-  Maybe too obsessed with programming xD 
+
 
 #### Get in touch 📫
 - Mail: **rahul.baradol.14@gmail.com**
