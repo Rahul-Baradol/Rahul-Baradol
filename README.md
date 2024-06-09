@@ -12,7 +12,7 @@
 Check out my portfolio website at [rahulbaradol.in](https://rahulbaradol.in) to learn more about my projects, skills, and experience.
 
 #### About 🌏
-- 2nd year Computer Science Student
+- 3rd year Computer Science Student
 - Passionate about building innovative solutions through various web technologies, and delving into databases, load balancers, and system architecture to create cost-effective, performant solutions that meet requirements
 
 #### Proficient 🚀 
