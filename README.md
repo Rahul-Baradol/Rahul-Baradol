@@ -31,7 +31,7 @@ Check out my portfolio website at [rahulbaradol.in](https://rahulbaradol.in) to 
 - UI Design
 
 #### Also, I do LeetCode!&nbsp; Why?
--  Maybe too obsessed with programming xD 
+-  Maybe too obsessed with 'problem solving' xD 
 
 
 #### Get in touch 📫
