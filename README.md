@@ -21,7 +21,6 @@ Check out my portfolio website at [rahulbaradol.in](https://rahulbaradol.in) to 
 - **[Tailwind CSS](https://tailwindcss.com)**
 - **[Express](https://expressjs.com/)**
 - **[C++](https://cplusplus.com/)**
-- **[Go](https://go.dev/)**
 
 #### Ask me about 💬
 - Backend Systems
