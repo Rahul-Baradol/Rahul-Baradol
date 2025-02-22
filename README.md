@@ -15,7 +15,7 @@ Check out my portfolio website at [rahulbaradol.in](https://rahulbaradol.in) to 
 - Anything backend and systems :)
 
 #### Also, I love to participate in algorithmic contests; Why?
--  Maybe too obsessed with programming xD
+-  Maybe too obsessed with problem solving xD
 
 #### Get in touch 📫
 - Mail: **rahul.baradol.14@gmail.com**
