@@ -11,7 +11,7 @@
 Check out my portfolio website at [rahulbaradol.in](https://rahulbaradol.in) to learn more about my projects, skills, and experience.
 
 #### About 🌏
-- 3rd year - Computer Science Student
+- Final Year - Computer Science Student
 - Anything backend and systems :)
 
 #### Also, I love to participate in algorithmic contests; Why?
