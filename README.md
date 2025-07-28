@@ -14,7 +14,7 @@ Check out my portfolio website at [rahulbaradol.in](https://rahulbaradol.in) to 
 - final year <=> CSE
 - experienced in (backend) systems
 - in general, flexible across xTechx
-- that GUY who understands things by building from scratch 
+- that GUY who ❤️'s to understand things by building from scratch 
 
 #### Get in touch 📫
 - Mail: **rahul.baradol.14@gmail.com**
