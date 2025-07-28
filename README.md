@@ -11,11 +11,10 @@
 Check out my portfolio website at [rahulbaradol.in](https://rahulbaradol.in) to learn more about my projects, skills, and experience.
 
 #### About 🌏
-- Final Year - Computer Science Student
-- Anything backend and systems :)
-
-#### Also, I love to participate in algorithmic contests; Why?
--  Maybe too obsessed with puzzles xD
+- CSE <=> final year
+- Experienced in (backend) systems
+- In general, flexible across xTechx
+- That psycho who understands things by building from scratch 
 
 #### Get in touch 📫
 - Mail: **rahul.baradol.14@gmail.com**
