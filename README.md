@@ -12,10 +12,11 @@ Check out my portfolio website at [rahulbaradol.in](https://rahulbaradol.in) to 
 
 #### About 🌏
 - final year <=> CSE
-- experienced in (frontend + backend) systems
+- (frontend + backend) systems
 - that GUY who ❤️'s to understand things by building from scratch 
 
 #### Get in touch 📫
 - Mail: **rahul.baradol.14@gmail.com**
+
 
 
