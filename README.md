@@ -15,7 +15,7 @@ TypeScript · React · Next.js · Python · FastAPI · Java · Spring Boot · Go
 
 ### Open source
 
-Contributed to [OpenFeature flagd](https://github.com/open-feature/flagd) — optional default values and header-based context updates.
+Contributed to [OpenFeature](https://github.com/open-feature) & [Open Telemetry](https://github.com/open-telemetry) across different repositories.
 
 ### Writing
 
