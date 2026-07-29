@@ -15,7 +15,7 @@ TypeScript · React · Next.js · Python · FastAPI · Java · Spring Boot · Go
 
 ### Open source
 
-Contributed to [OpenFeature](https://github.com/open-feature) & [Open Telemetry](https://github.com/open-telemetry) across different repositories.
+Contributed to [OpenFeature](https://github.com/open-feature) & [Open Telemetry](https://github.com/open-telemetry) across repositories.
 
 ### Writing
 
