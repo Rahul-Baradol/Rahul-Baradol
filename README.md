@@ -15,8 +15,8 @@ TypeScript · React · Next.js · Python · FastAPI · Java · Spring Boot · Go
 
 ### Open source
 
-Contributed to [OpenFeature](https://github.com/open-feature) & [Open Telemetry](https://github.com/open-telemetry). 
-- ##### View contributions in [OpenFeature](https://github.com/search?q=org%3Aopen-feature++involves%3ARahul-Baradol&type=pullrequests) or [OpenTelemetry](https://github.com/search?q=org%3Aopen-telemetry+involves%3ARahul-Baradol&type=pullrequests)
+#### Contributed to [OpenFeature](https://github.com/open-feature) & [Open Telemetry](https://github.com/open-telemetry). 
+##### View contributions in [OpenFeature](https://github.com/search?q=org%3Aopen-feature++involves%3ARahul-Baradol&type=pullrequests) or [OpenTelemetry](https://github.com/search?q=org%3Aopen-telemetry+involves%3ARahul-Baradol&type=pullrequests)
 
 ### Writing
 
