@@ -19,8 +19,8 @@ Contributed to [OpenFeature](https://github.com/open-feature) & [Open Telemetry]
 
 ### Writing
 
-- [Breaking down Signature](https://medium.com/@rahul.baradol.14/breaking-down-signature-28e9b0d2904e) — 9 months of building it
 - [How we cut store page data transfer by 73%](https://medium.com/@mail_99211/how-we-cut-store-page-data-transfer-by-73-9733af2dee20)
+- [Breaking down Signature](https://medium.com/@rahul.baradol.14/breaking-down-signature-28e9b0d2904e) — 9 months of building it
 - [Scaling our web app — managing data better](https://medium.com/@mail_99211/scaling-our-web-app-managing-data-better-1ad980b75a2a)
 
 Fingerstyle guitar in the spare time.
