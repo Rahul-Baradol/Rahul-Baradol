@@ -1,27 +1,26 @@
-<div align="center">
-
 # Rahul Baradol
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Building+fast+reliable+backends;Obsessing+over+web+app+performance;Open+source;Client-side+SDKs;Fingerstyle+Guitarist+in+spare+time)](https://git.io/typing-svg)
+Full stack engineer. I work across backend systems and the web; building products 0→1 and making things faster, cheaper, and less likely to break.
 
-<div align="center">
+[rahulbaradol.in](https://www.rahulbaradol.in/) · [LinkedIn](https://www.linkedin.com/in/rahul-baradol/) · [X](https://x.com/rahulbaradol) · [rahul.baradol.14@gmail.com](mailto:rahul.baradol.14@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-baradol/)
-[![Website](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rahulbaradol.in/)
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.baradol.14@gmail.com)
+### Tech
 
-</div>
+TypeScript · React · Next.js · Python · FastAPI · Java · Spring Boot · Go · MySQL · AWS
 
-### Stats
+### Projects
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rahul-Baradol&theme=dark&hide_border=true&background=0D1117&stroke=21262D&ring=6E7681&fire=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=6E7681&sideLabels=6E7681&dates=6E7681)](https://www.rahulbaradol.in/) 
+- **[Signature](http://signature.rahulbaradol.in)** — a platform to visualize and create music.
+- **[Flow Puzzle Solver](https://flowpuzzlesolver.vercel.app/)** — solves FlowFree puzzles with pathfinding.
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Baradol&bg_color=0D1117&color=6E7681&line=30363D&point=6E7681&area=true&area_color=21262D&hide_border=true)]([https://](https://www.rahulbaradol.in/)) 
+### Open source
 
-### Insights
+Contributed to [OpenFeature flagd](https://github.com/open-feature/flagd) — optional default values and header-based context updates.
 
-| Most Used Languages | Repos per Language |
-| :---: | :---: |
-| ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rahul-Baradol&theme=github_dark) | ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rahul-Baradol&theme=github_dark) |
+### Writing
 
-</div>
+- [Breaking down Signature](https://medium.com/@rahul.baradol.14/breaking-down-signature-28e9b0d2904e) — 9 months of building it
+- [How we cut store page data transfer by 73%](https://medium.com/@mail_99211/how-we-cut-store-page-data-transfer-by-73-9733af2dee20)
+- [Scaling our web app — managing data better](https://medium.com/@mail_99211/scaling-our-web-app-managing-data-better-1ad980b75a2a)
+
+Fingerstyle guitar in the spare time.
