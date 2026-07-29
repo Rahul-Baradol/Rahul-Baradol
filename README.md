@@ -1,6 +1,6 @@
 # Rahul Baradol
 
-Full stack engineer. I work across backend systems and the web; building products 0→1 and making things faster, cheaper, and less likely to break.
+Full stack engineer. I work across backend systems and the web; building products 0→1, making things faster, cheaper, and reliable.
 
 [rahulbaradol.in](https://www.rahulbaradol.in/) · [LinkedIn](https://www.linkedin.com/in/rahul-baradol/) · [X](https://x.com/rahulbaradol) · [rahul.baradol.14@gmail.com](mailto:rahul.baradol.14@gmail.com)
 
