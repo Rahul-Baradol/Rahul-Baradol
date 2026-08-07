@@ -10,7 +10,8 @@ TypeScript · React · Next.js · Python · FastAPI · Java · Spring Boot · Go
 
 ### Projects
 
-- **[Signature](http://signature.rahulbaradol.in)** — a platform to visualize and create music.
+- **[Signature](https://signature.rahulbaradol.in)** — a platform to visualize and create music.
+- **[Resonance](https://resonating.vercel.app)** — system which backs up my spotify playlists.
 - **[Flow Puzzle Solver](https://flowpuzzlesolver.vercel.app/)** — solves FlowFree puzzles with pathfinding.
 
 ### Open source
