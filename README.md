@@ -16,8 +16,7 @@ TypeScript · React · Next.js · Python · FastAPI · Java · Spring Boot · Go
 
 ### Open source
 
-#### Contributed to [OpenFeature](https://github.com/open-feature) & [Open Telemetry](https://github.com/open-telemetry). 
-##### View contributions in [OpenFeature](https://github.com/search?q=org%3Aopen-feature++involves%3ARahul-Baradol&type=pullrequests) or [OpenTelemetry](https://github.com/search?q=org%3Aopen-telemetry+involves%3ARahul-Baradol&type=pullrequests)
+#### Contributed to [OpenFeature](https://github.com/search?q=org%3Aopen-feature++involves%3ARahul-Baradol&type=pullrequests) or [OpenTelemetry](https://github.com/search?q=org%3Aopen-telemetry+involves%3ARahul-Baradol&type=pullrequests)
 
 ### Writing
 
@@ -25,4 +24,4 @@ TypeScript · React · Next.js · Python · FastAPI · Java · Spring Boot · Go
 - [Breaking down Signature](https://medium.com/@rahul.baradol.14/breaking-down-signature-28e9b0d2904e) — 9 months of building it
 - [Scaling our web app — managing data better](https://medium.com/@mail_99211/scaling-our-web-app-managing-data-better-1ad980b75a2a)
 
-Fingerstyle guitar in the spare time.
+fingerstyle guitar in the spare time :)
