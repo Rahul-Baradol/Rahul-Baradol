@@ -24,4 +24,6 @@ TypeScript · React · Next.js · Python · FastAPI · Java · Spring Boot · Go
 - [Breaking down Signature](https://medium.com/@rahul.baradol.14/breaking-down-signature-28e9b0d2904e) — 9 months of building it
 - [Scaling our web app — managing data better](https://medium.com/@mail_99211/scaling-our-web-app-managing-data-better-1ad980b75a2a)
 
+<br />
+
 fingerstyle guitar in the spare time :)
