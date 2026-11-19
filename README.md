@@ -18,7 +18,7 @@ TypeScript · React · Next.js · Python · FastAPI · MySQL · AWS
 
 ### Product-based Projects
 
-- **[Signature](https://signature.rahulbaradol.in)** — a platform to visualize and create music
+- **[Signature](https://signature.rahulbaradol.in)** — a platform to visualise and create music
 - **[Flow](https://flow.rahulbaradol.in)** — algorithms which solve flow free puzzles
 - **[Resonance](https://resonating.vercel.app)** — background job which backs up my spotify playlists
 
