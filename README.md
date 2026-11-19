@@ -10,11 +10,11 @@ TypeScript · React · Next.js · Python · FastAPI · Java · Spring Boot · Go
 
 ### deep-Tech Projects
 - **[engine](https://github.com/Rahul-Baradol/engine)** — building database piece-by-piece
-- **[pulsar]([https://github.com/Rahul-Baradol/kido](https://github.com/Rahul-Baradol/pulsar))** — a tiny auto-grad built, inspired from [PyTorch](https://pytorch.org/)
+- **[pulsar](https://github.com/Rahul-Baradol/pulsar)** — a tiny auto-grad built, inspired from [PyTorch](https://pytorch.org/)
 - **[Kido](https://github.com/Rahul-Baradol/kido)** — a compiler written in C++.
-- **[hogyoku]([https://github.com/Rahul-Baradol/hogyoku))** — x86 os kernel written from scratch in C and X86 Assembly.
-- **[rffp]([https://github.com/Rahul-Baradol/kido](https://github.com/Rahul-Baradol/react-from-first-principles))** — building react from first principles.
-- **[MQTT Broker]([https://github.com/Rahul-Baradol/kido](https://github.com/Rahul-Baradol/MQTT-Broker))** — a simple MQTT broker.
+- **[hogyoku](https://github.com/Rahul-Baradol/hogyoku)** — x86 os kernel written from scratch in C and X86 Assembly.
+- **[rffp](https://github.com/Rahul-Baradol/react-from-first-principles)** — building react from first principles.
+- **[MQTT Broker](https://github.com/Rahul-Baradol/MQTT-Broker)** — a simple MQTT broker.
 
 ### Product-based Projects
 
