@@ -9,7 +9,7 @@ I work across backend systems and the web; building products 0→1, making thing
 TypeScript · React · Next.js · Python · FastAPI · Java · Spring Boot · Go · MySQL · AWS
 
 ### deep-Tech Projects
-- **[engine](https://github.com/Rahul-Baradol/engine)** — building database piece-by-piece
+- **[engine](https://github.com/Rahul-Baradol/engine)** — building database piece-by-piece (ongoing)
 - **[pulsar](https://github.com/Rahul-Baradol/pulsar)** — a tiny auto-grad; inspired from [PyTorch](https://pytorch.org/)
 - **[Kido](https://github.com/Rahul-Baradol/kido)** — a compiler written in C++.
 - **[hogyoku](https://github.com/Rahul-Baradol/hogyoku)** — x86 os kernel written from scratch in C and X86 Assembly.
