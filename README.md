@@ -8,11 +8,19 @@ I work across backend systems and the web; building products 0→1, making thing
 
 TypeScript · React · Next.js · Python · FastAPI · Java · Spring Boot · Go · MySQL · AWS
 
-### Projects
+### deep-Tech Projects
+- **[engine](https://github.com/Rahul-Baradol/engine)** — building database piece-by-piece
+- **[pulsar]([https://github.com/Rahul-Baradol/kido](https://github.com/Rahul-Baradol/pulsar))** — a tiny auto-grad built, inspired from [PyTorch](https://pytorch.org/)
+- **[Kido](https://github.com/Rahul-Baradol/kido)** — a compiler written in C++.
+- **[hogyoku]([https://github.com/Rahul-Baradol/hogyoku))** — x86 os kernel written from scratch in C and X86 Assembly.
+- **[rffp]([https://github.com/Rahul-Baradol/kido](https://github.com/Rahul-Baradol/react-from-first-principles))** — building react from first principles.
+- **[MQTT Broker]([https://github.com/Rahul-Baradol/kido](https://github.com/Rahul-Baradol/MQTT-Broker))** — a simple MQTT broker.
+
+### Product-based Projects
 
 - **[Signature](https://signature.rahulbaradol.in)** — a platform to visualize and create music.
-- **[Resonance](https://resonating.vercel.app)** — system which backs up my spotify playlists.
-- **[Flow Puzzle Solver](https://flowpuzzlesolver.vercel.app/)** — solves FlowFree puzzles with pathfinding.
+- **[Flow Puzzle Solver](https://flow.rahulbaradol.in)** — solves FlowFree puzzles with pathfinding.
+- **[Resonance](https://resonating.vercel.app)** — background job which backs up my spotify playlists.
 
 ### Open source
 
