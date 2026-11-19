@@ -6,7 +6,7 @@ I work across backend systems and the web; building products 0→1, making thing
 
 ### Tech
 
-TypeScript · React · Next.js · Python · FastAPI · Java · Spring Boot · Go · MySQL · AWS
+TypeScript · React · Next.js · Python · FastAPI · MySQL · AWS
 
 ### deep-Tech Projects
 - **[engine](https://github.com/Rahul-Baradol/engine)** — building database piece-by-piece (ongoing)
